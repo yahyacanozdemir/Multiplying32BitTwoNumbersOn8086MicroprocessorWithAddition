@@ -5,4 +5,5 @@ Bildiğiniz üzere Intel 8086 işemcisinin register boyutları 16 bitlik ve bu y
 Emu 8086 simulatoru uzerinde yazdığım bu asm uzantılı dosyayı inceleyebilir, eğer program işinize yararsa starlayabilirsiniz. 
 
 
-### Program hakkında aklınıza takılan konuları bio'daki iletişim adreslerimden bana ulaşıp istediğiniz zaman sorabilirsiniz.
+## İletişim
+Program hakkında aklınıza takılan konuları bio'daki iletişim adreslerimden bana ulaşıp istediğiniz zaman sorabilirsiniz.
